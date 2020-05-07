@@ -11,7 +11,7 @@
  </table>
 
 ## General info
-Sale of tickets to the most popular theaters, cinemas, restaurants, pubs, amusement parks, beauty salons and many other places that enjoy recognition and guarantee entertainment at the highest level.
+Sale of tickets to the most popular places. #topbilet.pl
 	
 ## What did I use?
 SwiftUI(Only View)
