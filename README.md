@@ -7,9 +7,11 @@
   <tr>
      <td>First Screen Page</td>
      <td>Holiday Mention</td>
+     <td>Holiday Mention</td>
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
+    <td valign="top"><img src="https://i.ibb.co/DwHpDHX/t1.png"></td>
     <td valign="top"><img src="https://i.ibb.co/DwHpDHX/t1.png"></td>
     <td valign="top"><img src="https://i.ibb.co/DwHpDHX/t1.png"></td>
     <td valign="top"><img src="https://i.ibb.co/DwHpDHX/t1.png"></td>
