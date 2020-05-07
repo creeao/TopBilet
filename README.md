@@ -1,6 +1,6 @@
 # TopBilet
 ## View
-<img src="https://i.ibb.co/DwHpDHX/t1.png" width="270"><img src="https://i.ibb.co/SNGGL16/t2.png" width="270">
+<img src="https://i.ibb.co/DwHpDHX/t1.png" width="270"><img src="https://i.ibb.co/SNGGL16/t2.png" width="270"></br>
 <img src="https://i.ibb.co/R32qFpm/t3.png" width="270"><img src="https://i.ibb.co/sWLdvVQ/t4.png" width="270">
 
 ## General info
