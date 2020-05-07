@@ -3,12 +3,6 @@
 
 <table>
   <tr>
-     <td>Login</td>
-     <td>Register</td>
-     <td>Home</td>
-     <td>Menu</td>
-  </tr>
-  <tr>
     <td valign="top"><img src="https://i.ibb.co/DwHpDHX/t1.png"></td>
     <td valign="top"><img src="https://i.ibb.co/SNGGL16/t2.png"></td>
     <td valign="top"><img src="https://i.ibb.co/R32qFpm/t3.png"></td>
