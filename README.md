@@ -1,7 +1,20 @@
 # TopBilet
 ## View
 <img src="https://i.ibb.co/DwHpDHX/t1.png" width="270"><img src="https://i.ibb.co/SNGGL16/t2.png" width="270"></br>
-<img src="https://i.ibb.co/R32qFpm/t3.png" width="270" padding="15px"><img src="https://i.ibb.co/sWLdvVQ/t4.png" width="270" padding="15">
+<img src="https://i.ibb.co/R32qFpm/t3.png" width="270"><img src="https://i.ibb.co/sWLdvVQ/t4.png" width="270">
+
+<table>
+  <tr>
+     <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://i.ibb.co/DwHpDHX/t1.png"></td>
+    <td valign="top"><img src="https://i.ibb.co/DwHpDHX/t1.png"></td>
+    <td valign="top"><img src="https://i.ibb.co/DwHpDHX/t1.png"></td>
+  </tr>
+ </table>
 
 ## General info
 Sale of tickets to the most popular theaters, cinemas, restaurants, pubs, amusement parks, beauty salons and many other places that enjoy recognition and guarantee entertainment at the highest level.
