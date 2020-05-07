@@ -1,9 +1,9 @@
 # TopBilet
 ## View
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td border-color="white" valign="top"><img src="https://i.ibb.co/DwHpDHX/t1.png"></td>
+    <td valign="top"><img src="https://i.ibb.co/DwHpDHX/t1.png"></td>
     <td valign="top"><img src="https://i.ibb.co/SNGGL16/t2.png"></td>
     <td valign="top"><img src="https://i.ibb.co/R32qFpm/t3.png"></td>
     <td valign="top"><img src="https://i.ibb.co/sWLdvVQ/t4.png"></td>
